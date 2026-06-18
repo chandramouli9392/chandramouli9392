@@ -1,60 +1,49 @@
 <div align="center">
 
-#  CHANDRAMOUI BOPPANA
-
+# ⚡ Chandramouli Boppana ⚡
 
 ### 🤖 Artificial Intelligence & Machine Learning Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=900&lines=AI+%26+Machine+Learning+Engineer;Generative+AI+Developer;Computer+Vision+Builder;Building+Real-World+AI+Applications;Streamlit+%7C+YOLOv8+%7C+PyTorch+%7C+TensorFlow;Always+Learning+%E2%9A%A1+Always+Building+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1000&color=00E5FF&center=true&vCenter=true&width=1000&lines=Artificial+Intelligence+%26+Machine+Learning+Engineer;Generative+AI+Developer;Computer+Vision+Engineer;Building+Production-Ready+AI+Systems;LLMs+%7C+Computer+Vision+%7C+Deep+Learning;Where+Intelligence+Meets+Innovation" />
 
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=chandramouli9392&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:8A2BE2&height=120&section=header&text=Σ&fontSize=60&fontColor=ffffff&animation=fadeIn" />
 
 </div>
 
 ---
 
-## 🧠 About Me
+# 🧠 About Me
 
-I'm a Pre-Final Year **Artificial Intelligence & Machine Learning** student at **Mohan Babu University** focused on building impactful AI systems that solve real-world problems.
+Artificial Intelligence & Machine Learning student passionate about building intelligent systems that solve real-world problems through AI, Machine Learning, Deep Learning, Computer Vision, and Generative AI.
 
-### ⚡ Current Focus
+Currently focused on developing production-ready AI applications, exploring Large Language Models (LLMs), Agentic AI systems, multimodal intelligence, and scalable AI deployment.
+
+---
+
+# ⚡ Current Focus
+
+```text
+Learn → Build → Deploy → Scale
+```
 
 * 🤖 Artificial Intelligence
 * 🧠 Machine Learning
 * 🎯 Deep Learning
 * 👁️ Computer Vision
 * 💬 Generative AI
-* 🔍 Large Language Models (LLMs)
-* 🚀 AI Product Development
-* ☁️ Streamlit & AI Deployment
+* 🔗 RAG Systems
+* ⚡ AI Agents
+* ☁️ AI Deployment
 
 ---
 
-## 🚀 AIML Journey
-
-```text
-Learning → Building → Deploying → Scaling
-```
-
-Currently exploring:
-
-* Advanced Machine Learning
-* Deep Learning Architectures
-* Computer Vision Systems
-* Generative AI Applications
-* Agentic AI Workflows
-* MLOps Fundamentals
-
----
-
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 ### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
 
 ### AI / ML
 
@@ -67,35 +56,88 @@ Currently exploring:
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-111827?style=for-the-badge)
 
-### AI Tools
+### Generative AI
+
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)
+
+### Tools
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 
 ---
 
-## 🚀 Featured AI Projects
+# 🎯 AIML Focus Areas
 
-### 🚗 VehicleVision AI
-
-AI-powered vehicle inspection platform using OCR, Computer Vision, and damage detection.
-
-### 🛠 PumpGuard AI
-
-Industrial predictive maintenance system using Machine Learning for pump health monitoring.
-
-### 🧠 Emovert
-
-Emotion-aware AI system that adapts environments using Computer Vision and emotion recognition.
+* Artificial Intelligence
+* Machine Learning
+* Deep Learning
+* Computer Vision
+* Generative AI
+* Large Language Models (LLMs)
+* Retrieval Augmented Generation (RAG)
+* Agentic AI
+* Multimodal AI
+* AI Automation
+* Intelligent Systems
 
 ---
 
-## 📊 GitHub Analytics
+# 📈 Learning Roadmap
+
+```text
+Artificial Intelligence
+        ↓
+Machine Learning
+        ↓
+Deep Learning
+        ↓
+Computer Vision
+        ↓
+Generative AI
+        ↓
+AI Agents
+        ↓
+Production AI Systems
+```
+
+---
+
+# 🧩 Problem Solving
+
+### LeetCode
+
+```text
+300+ Problems Solved
+```
+
+Focused Areas:
+
+* Data Structures
+* Algorithms
+* Dynamic Programming
+* Graphs
+* Trees
+* Recursion
+* Backtracking
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=chandramouli9392&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=chandramouli9392&show_icons=true&theme=tokyonight&hide_border=true" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandramouli9392&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chandramouli9392&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -104,20 +146,32 @@ Emotion-aware AI system that adapts environments using Computer Vision and emoti
 
 ---
 
-## 🎯 2026 Goals
+# 🌐 Connect With Me
 
-* 🚀 Secure an AI/ML Engineering Role
-* 🧠 Master Deep Learning & Generative AI
-* 📚 Publish More Real-World AI Projects
-* 🌍 Contribute to Open Source AI
-* ⚡ Build Scalable AI Products
+<p align="center">
+
+<a href="https://www.linkedin.com/in/chandramouli-boppana-881460332/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/ChandramouliBoppana/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://github.com/chandramouli9392">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-### Σ Build. Learn. Deploy. Repeat.
+# ⚡ WHERE INTELLIGENCE MEETS INNOVATION ⚡
 
-*"Turning AI ideas into real-world solutions."*
+### Artificial Intelligence • Machine Learning • Computer Vision • Generative AI
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:8A2BE2&height=100&section=footer"/>
 
 </div>
