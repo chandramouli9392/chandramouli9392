@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:8A2BE2&height=220&section=header&text=&fontSize=0&animation=twinkling"/>
+#  Chandramouli Boppana ⚡
 
-# ✨⚡ Σ Chandramouli Boppana ⚡✨
-
-### 🤖 Artificial Intelligence & Machine Learning Engineer
+### Artificial Intelligence & Machine Learning Engineer
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1000&color=00E5FF&center=true&vCenter=true&width=1000&lines=Artificial+Intelligence+%26+Machine+Learning+Engineer;Generative+AI+Developer;Computer+Vision+Engineer;Building+Production-Ready+AI+Systems;LLMs+%7C+Computer+Vision+%7C+Deep+Learning;Where+Intelligence+Meets+Innovation" />
 
-<img src="https://komarev.com/ghpvc/?username=chandramouli9392&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:8A2BE2&height=120&section=header&text=Σ&fontSize=60&fontColor=ffffff&animation=fadeIn" />
 
 </div>
 
@@ -18,7 +16,7 @@
 
 Artificial Intelligence & Machine Learning student passionate about building intelligent systems that solve real-world problems through AI, Machine Learning, Deep Learning, Computer Vision, and Generative AI.
 
-Currently focused on developing production-ready AI applications, exploring Large Language Models (LLMs), Agentic AI Systems, Multimodal Intelligence, and scalable AI deployment.
+Currently focused on developing production-ready AI applications, exploring Large Language Models (LLMs), Agentic AI systems, multimodal intelligence, and scalable AI deployment.
 
 ---
 
@@ -33,23 +31,9 @@ Learn → Build → Deploy → Scale
 * 🎯 Deep Learning
 * 👁️ Computer Vision
 * 💬 Generative AI
-* 🔗 Retrieval Augmented Generation (RAG)
+* 🔗 RAG Systems
 * ⚡ AI Agents
 * ☁️ AI Deployment
-
----
-
-# 🎯 AIML Focus Areas
-
-| Domain                     | Focus        |
-| -------------------------- | ------------ |
-| 🤖 Artificial Intelligence | Advanced     |
-| 🧠 Machine Learning        | Advanced     |
-| 👁️ Computer Vision        | Advanced     |
-| 💬 Generative AI           | Advanced     |
-| 🔗 RAG Systems             | Intermediate |
-| ⚡ Agentic AI               | Intermediate |
-| ☁️ AI Deployment           | Advanced     |
 
 ---
 
@@ -85,6 +69,22 @@ Learn → Build → Deploy → Scale
 
 ---
 
+# 🎯 AIML Focus Areas
+
+* Artificial Intelligence
+* Machine Learning
+* Deep Learning
+* Computer Vision
+* Generative AI
+* Large Language Models (LLMs)
+* Retrieval Augmented Generation (RAG)
+* Agentic AI
+* Multimodal AI
+* AI Automation
+* Intelligent Systems
+
+---
+
 # 📈 Learning Roadmap
 
 ```text
@@ -107,7 +107,7 @@ Production AI Systems
 
 # 🧩 Problem Solving
 
-### 🧠 LeetCode Journey
+### LeetCode
 
 ```text
 300+ Problems Solved
@@ -118,8 +118,9 @@ Focused Areas:
 * Data Structures
 * Algorithms
 * Dynamic Programming
-* Graph Algorithms
-* Trees & Recursion
+* Graphs
+* Trees
+* Recursion
 * Backtracking
 
 ---
@@ -142,17 +143,6 @@ Focused Areas:
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandramouli9392&theme=tokyo-night&hide_border=true" />
 </p>
-
----
-
-# 🎯 2026 Goals
-
-* 🚀 Build Production-Ready AI Applications
-* 🧠 Master Deep Learning & Generative AI
-* 🤖 Develop Intelligent Agentic Systems
-* 🌍 Contribute to Open Source AI
-* 📚 Continuously Learn & Innovate
-* 💼 Secure an AI/ML Engineering Role
 
 ---
 
@@ -182,6 +172,6 @@ Focused Areas:
 
 ### Artificial Intelligence • Machine Learning • Computer Vision • Generative AI
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:8A2BE2&height=120&section=footer&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:8A2BE2&height=100&section=footer"/>
 
 </div>
