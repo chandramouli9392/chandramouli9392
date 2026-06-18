@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Chandramouli Boppana ⚡
+#         Chandramouli Boppana ⚡
 
 ### 🤖 Artificial Intelligence & Machine Learning Engineer
 
