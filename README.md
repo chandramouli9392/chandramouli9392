@@ -1,12 +1,22 @@
 <div align="center">
 
-#  Chandramouli Boppana ⚡
+# ⚡ Chandramouli Boppana
 
-### Artificial Intelligence & Machine Learning Engineer
+### Artificial Intelligence Engineer • Generative AI Developer • Machine Learning Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1000&color=00E5FF&center=true&vCenter=true&width=1000&lines=Artificial+Intelligence+%26+Machine+Learning+Engineer;Generative+AI+Developer;Computer+Vision+Engineer;Building+Production-Ready+AI+Systems;LLMs+%7C+Computer+Vision+%7C+Deep+Learning;Where+Intelligence+Meets+Innovation" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1000&color=00E5FF&center=true&vCenter=true&width=1000&lines=Artificial+Intelligence+Engineer;Generative+AI+Developer;Computer+Vision+Engineer;Building+Production-Ready+AI+Systems;LLMs+%7C+Computer+Vision+%7C+Deep+Learning;RAG+Systems+%7C+Agentic+AI;Where+Intelligence+Meets+Innovation" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:8A2BE2&height=120&section=header&text=Σ&fontSize=60&fontColor=ffffff&animation=fadeIn" />
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/216655848-cf4d7bed-52aa-4740-8c67-1832472051ec.gif" width="700"/>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:8A2BE2&height=120&section=header&text=AI%20ENGINEER&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+
+<h3 align="center">
+🚀 Building Intelligent Systems That Transform Ideas Into Real-World AI Solutions
+</h3>
 
 </div>
 
@@ -14,9 +24,32 @@
 
 # 🧠 About Me
 
-Artificial Intelligence & Machine Learning student passionate about building intelligent systems that solve real-world problems through AI, Machine Learning, Deep Learning, Computer Vision, and Generative AI.
+Artificial Intelligence & Machine Learning Engineer passionate about building intelligent systems that solve real-world problems through AI, Machine Learning, Deep Learning, Computer Vision, and Generative AI.
 
 Currently focused on developing production-ready AI applications, exploring Large Language Models (LLMs), Agentic AI systems, multimodal intelligence, and scalable AI deployment.
+
+---
+
+# 🚀 Engineering Philosophy
+
+```text
+Research → Build → Test → Deploy → Scale
+```
+
+I focus on transforming cutting-edge AI research into production-ready solutions.
+
+Areas of interest:
+
+* Artificial Intelligence
+* Machine Learning
+* Deep Learning
+* Computer Vision
+* Generative AI
+* Large Language Models (LLMs)
+* Agentic AI Systems
+* Retrieval-Augmented Generation (RAG)
+* Intelligent Automation
+* Scalable AI Infrastructure
 
 ---
 
@@ -38,6 +71,10 @@ Learn → Build → Deploy → Scale
 ---
 
 # 🛠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,tensorflow,pytorch,opencv,git,github,linux,vscode,streamlit" />
+</p>
 
 ### Languages
 
@@ -85,6 +122,21 @@ Learn → Build → Deploy → Scale
 
 ---
 
+# 🧠 AI Expertise Map
+
+```text
+Artificial Intelligence      ████████████████████ 95%
+Machine Learning             ███████████████████  92%
+Deep Learning                ██████████████████   90%
+Computer Vision              ██████████████████   90%
+Generative AI                ███████████████████  94%
+RAG Systems                  ███████████████████  95%
+AI Agents                    █████████████████    89%
+Deployment & MLOps           ████████████████     85%
+```
+
+---
+
 # 📈 Learning Roadmap
 
 ```text
@@ -125,6 +177,10 @@ Focused Areas:
 
 ---
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=chandramouli9392&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
 # 📊 GitHub Analytics
 
 <p align="center">
@@ -142,6 +198,10 @@ Focused Areas:
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandramouli9392&theme=tokyo-night&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257464-1574b503-5d14-4fd4-9b32-2c695f878496.gif" width="700">
 </p>
 
 ---
@@ -168,10 +228,12 @@ Focused Areas:
 
 <div align="center">
 
-# ⚡ WHERE INTELLIGENCE MEETS INNOVATION ⚡
+# ⚡ ENGINEERING THE FUTURE WITH ARTIFICIAL INTELLIGENCE ⚡
 
 ### Artificial Intelligence • Machine Learning • Computer Vision • Generative AI
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:8A2BE2&height=100&section=footer"/>
+### Building Intelligent Systems • Solving Real Problems • Creating AI Impact
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:8A2BE2&height=120&section=footer"/>
 
 </div>
